@@ -1,0 +1,7 @@
+PS C:\git> git branch
+* exercicio_git
+  main
+  master
+PS C:\git> cat .\nome.txt
+tarcisio_alkmin_siqueira
+
